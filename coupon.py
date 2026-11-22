@@ -1,0 +1,4 @@
+a=10
+print(a)
+if a > 5:
+    print("a is greater than 5")
